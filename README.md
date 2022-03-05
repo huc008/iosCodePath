@@ -37,16 +37,13 @@ After setting the background of my grid CollectionView to black, the title would
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 
-<<<<<<< HEAD
 ### App Walkthrough GIF
 
 <img src="https://submissions.us-east-1.linodeobjects.com/ios_university/iL5pszjk.gif" width=250><br>
 <!-- ![](https://i.imgur.com/9oZLXTi.gif)
 ![](https://i.imgur.com/nRBS5el.gif)
 ![](https://i.imgur.com/EYSi24t.gif) -->
-=======
-<img src="https://i.imgur.com/EYSi24t.gif" width=250><br>
->>>>>>> 721f7ecf06c6e8036b4c665f4ef7286985f96b70
 
 ### Notes
 It's amazing to create an incredible ios app like this for the movie enthusiast. I am implementing the app with more useful features.
+
