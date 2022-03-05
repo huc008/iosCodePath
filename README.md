@@ -2,9 +2,6 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
-
 ## Flix Part 2
 
 ### User Stories
@@ -40,12 +37,16 @@ After setting the background of my grid CollectionView to black, the title would
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 
+<<<<<<< HEAD
 ### App Walkthrough GIF
 
 <img src="https://submissions.us-east-1.linodeobjects.com/ios_university/iL5pszjk.gif" width=250><br>
 <!-- ![](https://i.imgur.com/9oZLXTi.gif)
 ![](https://i.imgur.com/nRBS5el.gif)
 ![](https://i.imgur.com/EYSi24t.gif) -->
+=======
+<img src="https://i.imgur.com/EYSi24t.gif" width=250><br>
+>>>>>>> 721f7ecf06c6e8036b4c665f4ef7286985f96b70
 
 ### Notes
 It's amazing to create an incredible ios app like this for the movie enthusiast. I am implementing the app with more useful features.
