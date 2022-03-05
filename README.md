@@ -40,9 +40,6 @@ After setting the background of my grid CollectionView to black, the title would
 ### App Walkthrough GIF
 
 <img src="https://i.imgur.com/EYSi24t.gif" width=250><br>
-<!-- ![](https://i.imgur.com/9oZLXTi.gif)
-![](https://i.imgur.com/nRBS5el.gif)
-![](https://i.imgur.com/EYSi24t.gif) -->
 
 ### Notes
 It's amazing to create an incredible ios app like this for the movie enthusiast. I am implementing the app with more useful features.
