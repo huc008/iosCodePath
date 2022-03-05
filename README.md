@@ -39,7 +39,7 @@ After setting the background of my grid CollectionView to black, the title would
 
 ### App Walkthrough GIF
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/iL5pszjk.gif" width=250><br>
+<img src="https://i.imgur.com/EYSi24t.gif" width=250><br>
 <!-- ![](https://i.imgur.com/9oZLXTi.gif)
 ![](https://i.imgur.com/nRBS5el.gif)
 ![](https://i.imgur.com/EYSi24t.gif) -->
